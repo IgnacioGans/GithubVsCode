@@ -1,0 +1,1 @@
+console.log("GitHubVsCode está abierto");
